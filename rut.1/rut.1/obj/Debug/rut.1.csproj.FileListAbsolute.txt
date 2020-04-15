@@ -1,0 +1,9 @@
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\bin\Debug\rut.1.exe.config
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\bin\Debug\rut.1.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\bin\Debug\rut.1.pdb
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut.1.csprojResolveAssemblyReference.cache
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut._1.Form1.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut._1.Properties.Resources.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut.1.csproj.GenerateResource.Cache
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut.1.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\rut.1\rut.1\obj\Debug\rut.1.pdb

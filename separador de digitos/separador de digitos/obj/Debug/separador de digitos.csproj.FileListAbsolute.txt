@@ -1,0 +1,8 @@
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\bin\Debug\separador de digitos.exe.config
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\bin\Debug\separador de digitos.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\bin\Debug\separador de digitos.pdb
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\obj\Debug\separador_de_digitos.Form1.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\obj\Debug\separador_de_digitos.Properties.Resources.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\obj\Debug\separador de digitos.csproj.GenerateResource.Cache
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\obj\Debug\separador de digitos.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\separador de digitos\separador de digitos\obj\Debug\separador de digitos.pdb
